@@ -2,6 +2,7 @@
 
 ## About
 
+![block](https://user-images.githubusercontent.com/17298412/31894359-d7b11242-b82b-11e7-95d6-2e0e6eb2cc2d.gif)
 
 
 Blockchain is a hot topic around the world these days.
